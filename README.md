@@ -12,7 +12,7 @@ $ docker-compose up -d
  ``` 
 
 
-### Check the url from RabbitMQ 
+### Check the URL from RabbitMQ 
 * Open your browser on link http://localhost:15672
 * The user is: **guest** and password: **guest**  
  
